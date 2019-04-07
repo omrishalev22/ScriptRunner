@@ -6,4 +6,8 @@ Using electron ( Node.js as for the actual script running and Angular for the UI
 ## Development server
 
 Run `ng serve` for a dev server - will bring up the UI
+
 Run `npm run electron` to startup the electron app
+
+Make sure you run ng serve first 
+
