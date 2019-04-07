@@ -3,18 +3,17 @@ import { Router } from '@angular/router';
 
 
 @Component({
-  selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'Welcome ';
-  currentURL:string;
+    title = 'Welcome ';
+    currentURL: string;
 
-  constructor(private router:Router) {
-    this.currentURL = window.location.href;
-  }
-
+    constructor(private router: Router) {
+        this.currentURL = window.location.href;
+    }
 
 
 }

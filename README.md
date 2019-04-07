@@ -13,6 +13,8 @@ Run `npm run electron` to startup the electron app
 
 Make sure you run ng serve first 
 
+Make sure you `npm run lint` before commits
+
 ## Additional Information
 Electron is used here to make an offline application. Electron project uses 2 main features to make this application
 run offline but also able to work with the computer's file system: 

@@ -12,3 +12,4 @@ npm-debug.log*
 .idea/jsLibraryMappings.xml
 .idea/codeStyles
 /dist
+/node_modules
