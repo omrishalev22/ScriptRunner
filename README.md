@@ -5,7 +5,7 @@ Using electron ( Node.js as for the actual script running and Angular for the UI
 
 ## Development
 
-Run `npm run install`- only when starting the app for the first time.
+Run `npm install`- only when starting the app for the first time.
 
 Run `ng serve` for a dev server - will bring up the UI
 
