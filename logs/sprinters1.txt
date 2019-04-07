@@ -1,0 +1,27 @@
+/home/shalevo/dev/sources/swm/SmaFrontend
+
+> SmaFrontend@0.0.1 serve /home/shalevo/dev/sources/swm/SmaFrontend
+> gulp serve "--backend" "http://d4-sprinters1.redbend.com:8080"
+
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/browsersync.js[39m
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/build.js[39m
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/cucumber.js[39m
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/docker.js[39m
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/docs.js[39m
+[10:21:17] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/karma.js[39m
+[10:21:18] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/lint.js[39m
+[10:21:18] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/misc.js[39m
+[10:21:18] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/onlineHelper.js[39m
+[10:21:18] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/shared.js[39m
+[10:21:19] Loading [33m/home/shalevo/dev/sources/swm/SmaFrontend/gulp_tasks/webpack.js[39m
+[10:21:19] Using gulpfile ~/dev/sources/swm/SmaFrontend/gulpfile.js
+[10:21:19] Starting 'serve'...
+[10:21:20] Starting 'getHelperKeys:soft'...
+[10:21:20] Finished 'getHelperKeys:soft' after 1.02 ms
+[10:21:20] Starting 'lint:json'...
+[10:21:20] Finished 'lint:json' after 262 ms
+[10:21:20] Starting 'lint:js:soft'...
+[10:21:22] Finished 'lint:js:soft' after 1.88 s
+[10:21:22] Starting 'env:dev'...
+[10:21:22] Finished 'env:dev' after 510 μs
+[10:21:22] Starting 'ts:compile'...
