@@ -22,7 +22,7 @@ run offline but also able to work with the computer's file system:
 2. Node.js - Javascript based runtime which allows us to use javascript outside the browser. Node.js has the abbility
 to communicate with the file system - this part of the application is called the 'Main' process.
 
-In order to make the two proccess communicate an actually show the applicaiton we use
+In order to make the two proccess communicate an actually show the application we use
 simple IPC ( inter process communication ) - you can see it in the API folder, for IPC we use 
 `import { IpcRenderer } from 'electron';` which provides a simple set of commands.
 
